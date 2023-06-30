@@ -3,3 +3,8 @@
 /lib/
 .bsb.lock
 .merlin
+
+yarn-error.log
+**/*.bs.js
+.env*
+.yarn
